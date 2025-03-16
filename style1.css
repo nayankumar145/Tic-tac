@@ -64,11 +64,11 @@
       }
 
       td.x::before {
-        background-image: url('path/to/x-image.png'); /* Replace with your 3D X image path */
+        background-image: url('path/to/x-image.png');
       }
 
       td.o::before {
-        background-image: url('path/to/o-image.png'); /* Replace with your 3D O image path */
+        background-image: url('path/to/o-image.png'); 
       }
 
       #player {
@@ -163,11 +163,11 @@
     }
 
     td.x::before {
-      background-image: url('path/to/x-image.png'); /* Replace with your 3D X image path */
+      background-image: url('path/to/x-image.png');
     }
 
     td.o::before {
-      background-image: url('path/to/o-image.png'); /* Replace with your 3D O image path */
+      background-image: url('path/to/o-image.png');
     }
 
     #player {
